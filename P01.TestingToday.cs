@@ -10,7 +10,6 @@ namespace P01.TestingToday
             Console.WriteLine("Last Testing!");
             Console.WriteLine("Last Testing!");
 
-
         }
     }
 }
